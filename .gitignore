@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Dynamodb local data
+docker/uteach-dynamodb-data/*
